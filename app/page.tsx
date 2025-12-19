@@ -1,4 +1,4 @@
-export default function Home() {
+export default function Home() { /* all comments are mine */
   return (
     <div className="min-h-screen">
 
